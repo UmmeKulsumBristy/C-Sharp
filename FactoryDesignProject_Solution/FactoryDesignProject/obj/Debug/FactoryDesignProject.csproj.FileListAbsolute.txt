@@ -1,0 +1,8 @@
+D:\R54\M2\Projects\6\FactoryDesignProject_Solution\FactoryDesignProject\bin\Debug\FactoryDesignProject.exe.config
+D:\R54\M2\Projects\6\FactoryDesignProject_Solution\FactoryDesignProject\bin\Debug\FactoryDesignProject.exe
+D:\R54\M2\Projects\6\FactoryDesignProject_Solution\FactoryDesignProject\bin\Debug\FactoryDesignProject.pdb
+D:\R54\M2\Projects\6\FactoryDesignProject_Solution\FactoryDesignProject\obj\Debug\FactoryDesignProject.csproj.AssemblyReference.cache
+D:\R54\M2\Projects\6\FactoryDesignProject_Solution\FactoryDesignProject\obj\Debug\FactoryDesignProject.csproj.SuggestedBindingRedirects.cache
+D:\R54\M2\Projects\6\FactoryDesignProject_Solution\FactoryDesignProject\obj\Debug\FactoryDesignProject.csproj.CoreCompileInputs.cache
+D:\R54\M2\Projects\6\FactoryDesignProject_Solution\FactoryDesignProject\obj\Debug\FactoryDesignProject.exe
+D:\R54\M2\Projects\6\FactoryDesignProject_Solution\FactoryDesignProject\obj\Debug\FactoryDesignProject.pdb
